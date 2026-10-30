@@ -1,32 +1,28 @@
-# Coretriva Digital Products — P002 Ownership Evidence
+# Coretriva Digital Products — Product Evidence
 
-**Product:** SaaS Procurement Evaluation Prompt Toolkit  
-**Product ID:** P002  
-**Creator / publisher:** Coretriva Digital Products  
-**Evidence purpose:** Representative sample supplied to demonstrate authorship and the nature of the digital product.
+This public repository contains limited, representative evidence for selected Coretriva digital products. It is intended for product-review and ownership enquiries.
 
-## About the product
+## P001 — Fintech Product Release Readiness Control Workbook
+P001 is an editable Excel workbook for coordinating fintech product releases, approval gates, evidence references, ownership, blockers, and decision records.
 
-P002 is a prompt toolkit intended to help procurement teams structure SaaS vendor evaluations using supplied requirements and evidence. It includes prompts for requirements extraction, weighted vendor comparison, total-cost clarification, security evidence requests, implementation risk review, renewal preparation, contradiction scanning, and decision-record drafting.
+See [P001_SAMPLE.md](P001_SAMPLE.md) for its purpose, five-sheet structure, representative formula logic, AI-assistance disclosure, and limitations.
 
-## Sample
+## P002 — SaaS Procurement Evaluation Prompt Toolkit
+P002 is a prompt toolkit intended to help procurement teams structure SaaS vendor evaluations using supplied requirements and evidence.
 
-See [P002_SAMPLE.md](P002_SAMPLE.md) for a representative excerpt from the toolkit.
+See [P002_SAMPLE.md](P002_SAMPLE.md) for a representative excerpt.
 
-## Ownership and source record
+## Development and ownership disclosure
+P001 was created and developed by the proprietor with limited AI assistance. The public materials are representative evidence and do not claim that AI was not used.
 
-This evidence repository is published under the GitHub account **TemaLP-Spect** for Coretriva Digital Products. The working product source and development records are maintained in the creator's private repository, `TemaLP-Spect/50-digital-products`, including the P002 source folder in the `release-candidate/batch-01-reviewed-clean` branch.
+## Privacy and commercial boundaries
+- This repository is separate from the private working repository that contains the broader 50-product collection.
+- It does not publish the complete 50-product collection.
+- It does not publish the complete paid P001 workbook or full commercial P002 toolkit.
+- The complete P001 buyer-delivery package can be supplied directly to Paystack for its review.
 
-This public repository contains only a representative excerpt. It does not publish the full commercial toolkit or the other product candidates.
-
-## Product status and limitations
-
-- Status: **technical candidate / commercial hold**.
-- The sample demonstrates the product's format and content; it is not a claim of independent buyer validation.
-- The prompt content has not been certified for any particular AI model.
-- The recorded smoke checks are manual desk-checks; no external model API benchmark or model-specific certification is claimed.
-- No guarantee is made that an AI service will produce accurate or complete procurement advice. Users must verify outputs against source documents and their organization's approved procurement process.
+## Product limitations
+The samples demonstrate structure and intended use; they are not independent buyer validation, regulatory certification, or a guarantee of outcomes. Users must verify outputs and decisions against their source evidence and approved organizational processes.
 
 ## Contact
-
 For product and ownership enquiries: princetema5@gmail.com
